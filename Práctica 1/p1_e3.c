@@ -1,7 +1,3 @@
-//
-//  p1_e1.c
-//  
-//
 //  Created by Armando on 08/03/21.
 //
 
