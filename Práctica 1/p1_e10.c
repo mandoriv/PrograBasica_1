@@ -2,7 +2,8 @@
 //
 
 /*
- Escribir un programa que pida al usuario una letra minúscula y una letra mayúscula. Posteriormente, se deberá escribir la letra minúscula en mayúsculas y la mayúscula en minúsculas.
+ En un colegio se compran todos los años agendas para todos sus alumnos. A cada alumno se le deja elegir el modelo de agenda entre diferentes opciones. Las agendas se venden en cajas grandes (50 unidades), cajas medianas (20 unidades), cajas pequeñas (5 unidades) y sueltas. Como suele ser habitual, en los paquetes más grandes el precio por unidad resulta más económico que en los paquetes más pequeños.
+
 */
 
 #include <stdio.h>
